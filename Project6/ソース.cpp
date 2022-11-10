@@ -32,6 +32,7 @@ int main() {
     return 0;
 }
 
+//‘æŽO‚Ìƒuƒ‰ƒ“ƒ`
 void create(CELL* endCell, int val)
 {
     CELL* newCell;
